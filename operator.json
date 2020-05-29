@@ -1,0 +1,9 @@
+{
+  "name": "Worldmap",
+  "description": "Shiny world map representation",
+  "tags": ["map"],
+  "authors": ["tercen"],
+  "urls": ["https://github.com/tercen/shiny_worldmap_docker_operator"],
+  "container": "agouy/worldmap:0.0.4",
+  "properties": []
+}
