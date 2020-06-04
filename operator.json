@@ -4,6 +4,6 @@
   "tags": ["map"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/shiny_worldmap_docker_operator"],
-  "container": "agouy/worldmap:0.0.4",
+  "container": "agouy/worldmap:0.0.5",
   "isWebApp": true
 }
