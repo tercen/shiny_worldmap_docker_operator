@@ -10,7 +10,7 @@ RUN apt-get install -y libgdal-dev
 
 RUN git clone https://github.com/tercen/shiny_worldmap_operator.git
 
-WORKDIR /operator/shiny_operator2
+WORKDIR /operator/shiny_worldmap_operator
 
 RUN echo 0.0.4 && git pull
 RUN git checkout 0.0.4
