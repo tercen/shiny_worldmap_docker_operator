@@ -12,8 +12,8 @@ RUN git clone https://github.com/tercen/shiny_worldmap_operator.git
 
 WORKDIR /operator/shiny_worldmap_operator
 
-RUN echo 0.0.6 && git pull
-RUN git checkout 0.0.6
+RUN echo 0.1.0 && git pull
+RUN git checkout 0.1.0
 
 RUN R -e "renv::restore(confirm=FALSE)"
 
