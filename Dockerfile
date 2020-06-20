@@ -8,9 +8,9 @@ RUN apt-get install -y libudunits2-dev
 RUN apt-get update
 RUN apt-get install -y libgdal-dev
 
-RUN git clone https://github.com/tercen/shiny_worldmap_operator.git
+RUN git clone https://github.com/tercen/worldmap_shiny_operator.git
 
-WORKDIR /operator/shiny_worldmap_operator
+WORKDIR /operator/worldmap_shiny_operator
 
 RUN echo 0.1.0 && git pull
 RUN git checkout 0.1.0
