@@ -1,7 +1,7 @@
 # Worldmap
 
 ```
-https://github.com/tercen/shiny_worldmap_docker_operator.git
+https://github.com/tercen/worldmap_shiny_docker_operator.git
 ```
 ## Build
 
