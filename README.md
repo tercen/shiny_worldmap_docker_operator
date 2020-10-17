@@ -1,9 +1,14 @@
-# Worldmap
+# Worldmap docker operator
+
+##### Description
+
+A worldmap view in Tercen.
 
 ```
 https://github.com/tercen/worldmap_shiny_docker_operator.git
 ```
-## Build
+
+##### Build
 
 ```bash
 VERSION=0.1.0
